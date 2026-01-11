@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I’m Amelia 👋
 
-<!--
-**amelia-phi/amelia-phi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year Bachelor of Actuarial Studies & IT (Data Science) student at Macquarie University.
+My background combines data analysis, structured problem-solving, and experience working in
+regulated and stakeholder-facing environments.
 
-Here are some ideas to get you started:
+I’m interested in work where data supports clear decision-making, operational improvement,
+and accountability, particularly in contexts that involve complexity and real-world constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Making sense of complex or messy datasets
+- Identifying trends, anomalies, and underlying drivers
+- Communicating insights clearly to non-technical audiences
+- Working carefully with data in structured or regulated contexts
+
+### Tools & methods
+- Excel (analysis, validation, reconciliation)
+- Power BI (dashboarding and reporting)
+- Python & R (data analysis and visualisation)
+- Exploratory data analysis, trend analysis
+
+### Currently building
+I’m developing data and insights projects focused on compliance monitoring, operational reporting,
+and translating analysis into decision-ready outputs.
+
+### Selected work
+📌 Pinned repositories below showcase projects related to:
+- Data visualisation and reporting
+- Compliance and operational insights
+- Consulting-style analytical casework
+
+Outside of work, I enjoy learning languages, structured problem-solving, and projects with social or environmental impact.
