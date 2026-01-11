@@ -24,10 +24,7 @@ regulated and stakeholder-facing environments.
 I’m developing data and insights projects focused on compliance monitoring, operational reporting,
 and translating analysis into decision-ready outputs.
 
-### Selected work
-📌 Pinned repositories below showcase projects related to:
-- Data visualisation and reporting
-- Compliance and operational insights
-- Consulting-style analytical casework
+### Explore my work
+
 
 Outside of work, I enjoy learning languages, structured problem-solving, and projects with social or environmental impact.
