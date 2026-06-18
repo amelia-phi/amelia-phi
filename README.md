@@ -15,7 +15,7 @@ regulated and stakeholder-facing environments.
 - Working carefully with data in structured or regulated contexts
 
 ### Tools & methods
-- Excel (analysis, validation, reconciliation)
+- Excel & SQL (analysis, validation, reconciliation)
 - Power BI (dashboarding and reporting)
-- Python & R (data analysis and visualisation)
+- R (data analysis and visualisation)
 - Exploratory data analysis, trend analysis
