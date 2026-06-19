@@ -1,6 +1,6 @@
 ## Hi, I’m Amelia 👋
 
-I’m a final-year Actuarial Studies & IT (Data Science) student at Macquarie University, 
+I completed my bachelor in Actuarial Studies & IT (Data Science) student at Macquarie University, and I am
 interested in work where data supports clear decision-making, operational improvement, 
 and accountability in real-world contexts.
 
